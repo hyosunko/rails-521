@@ -117,7 +117,9 @@
   text-shadow: 1px 1px 1px black;
   opacity: 0.9;
 }
-
+.navbar-custom {
+  color: rgb(233, 238, 240);
+}
 a {
   color: white;
   font-size: 22px;
