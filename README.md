@@ -1,24 +1,17 @@
-# README
+# 521 Decision App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Movie choice made easy
 
-Things you may want to cover:
+<img src="https://github.com/hyosunko/hyosunko.github.io/blob/master/img/Rails-521-logic.gif" width="400"></a>
 
-* Ruby version
+- Front End: React, Bootstrap, JQuery,
+- Back End: Ruby on Rails.
+- DB : Postegresql
 
-* System dependencies
+- Action Cable was added for real time chat.
+- Deployed at Heroku with Redis addon used
 
-* Configuration
+## Live Demo
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<a href="https://rails-521-app.herokuapp.com">
+<img src="https://github.com/hyosunko/hyosunko.github.io/blob/master/img/Rails-521-app.gif" width="400"></a>
