@@ -2,7 +2,7 @@
 
 ## Movie choice made easy
 
-<img src="https://github.com/hyosunko/hyosunko.github.io/blob/master/img/Rails-521-logic.gif" width="400"></a>
+<img src="https://github.com/hyosunko/hyosunko.github.io/blob/master/img/Rails-521-logic.gif" width="500"></a>
 
 - Front End: React, Bootstrap, JQuery,
 - Back End: Ruby on Rails.
