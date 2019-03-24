@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-ruby '2.5.3'
+ruby '>=2.5.3'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.2'
@@ -66,5 +66,6 @@ gem "webpacker", "~> 3.5"
 gem "react-rails", "~> 2.4"
 
 gem "devise", "~> 4.6"
-# gem 'wdm', '>= 0.1.0'
 gem 'jquery-rails'
+# gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+# gem 'bcrypt', git: 'https://github.com/codahale/bcrypt-ruby.git', :require => 'bcrypt'
