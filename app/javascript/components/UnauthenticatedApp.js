@@ -35,6 +35,15 @@ class UnauthenticatedApp extends React.Component {
             >
               Log-In
             </Button>
+            <div style={{ border: "1px solid gray" }}>
+              <p>test login list</p>
+              <div style={{ border: "1px solid gray" }}>
+                <p>test@test.com</p>
+                <p>janedoe@test.com</p>
+                <p>wonder@gmail.com</p>
+                <p>password : 123456</p>
+              </div>
+            </div>
           </div>
         </section>
       </div>
