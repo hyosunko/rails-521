@@ -37,7 +37,7 @@ class UnauthenticatedApp extends React.Component {
             </Button>
             <div style={{ border: "1px solid gray" }}>
               <p>test login list</p>
-              <div style={{ border: "1px solid gray" }}>
+              <div>
                 <p>test@test.com</p>
                 <p>janedoe@test.com</p>
                 <p>wonder@gmail.com</p>
