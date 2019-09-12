@@ -65,7 +65,7 @@ gem 'rspec-rails', groups: [:development, :test]
 gem "webpacker", "~> 3.5"
 gem "react-rails", "~> 2.4"
 
-gem "devise", "~> 4.6"
+gem "devise", "~> 4.7"
 gem 'jquery-rails'
 # gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 # gem 'bcrypt', git: 'https://github.com/codahale/bcrypt-ruby.git', :require => 'bcrypt'
